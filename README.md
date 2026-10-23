@@ -1,19 +1,15 @@
-🚀 Machine Learning Internship 
+Task 1: Data Preprocessing & Exploratory Data Analysis (EDA)
 
-Task 1
+Objective: Clean and analyze the Iris dataset to understand its patterns and characteristics.
 
-I'm happy to share my progress on Task 1: Data Preprocessing & Exploratory Data Analysis (EDA) as part of my Machine Learning Internship at CodeOrbit Tech. 🤖📊
+Activities Performed:
 
-Through this task, I gained hands-on experience in:
+Handled missing values and duplicate records.
 
-🔹 Handling missing values and duplicate records
-🔹 Identifying potential outliers
-🔹 Performing Exploratory Data Analysis (EDA)
-🔹 Analyzing statistical summaries and creating visualizations
-🔹 Using Python, Pandas, NumPy, Matplotlib, and Seaborn
+Identified potential outliers using the IQR method.
 
-This experience helped me understand the importance of data cleaning and exploration in preparing datasets for machine learning applications. 📈
+Generated summary statistics and data visualizations.
 
-I'm excited to keep learning, improving my skills, and exploring more in the field of Machine Learning! 💻✨
+Tools Used: Python, Pandas, NumPy, Matplotlib, and Seaborn.
 
-#MachineLearning #DataScience #Python #EDA #DataPreprocessing #Internship #CodeOrbitTech #LearningByDoing
+Outcome: Gained practical experience in data cleaning, exploratory data analysis, and visualizing dataset patterns.
